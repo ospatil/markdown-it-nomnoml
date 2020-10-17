@@ -1,6 +1,6 @@
 # markdown-it nomnoml plugin
 
-![npm (scoped)](https://img.shields.io/npm/v/ospatil/markdown-it-nomnoml?style=flat-square)
+![npm (scoped)](https://img.shields.io/npm/v/@ospatil/markdown-it-nomnoml?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/ospatil/markdown-it-nomnoml?style=flat-square)
 
 A *markdown-it* plugin for drawing UML diagrams using text-based [nomnoml](http://www.nomnoml.com/) syntax.
