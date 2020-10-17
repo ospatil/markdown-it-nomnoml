@@ -1,0 +1,38 @@
+{
+  "name": "@ospatil/markdown-it-nomnoml",
+  "version": "1.0.0",
+  "description": "markdown-it plugin for text-based nomnoml diagrams",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ospatil/markdown-it-nomnoml.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "markdown-it-plugin",
+    "nomnoml",
+    "diagram"
+  ],
+  "author": "Omkar Patil (https://github.com/ospatil)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ospatil/markdown-it-nomnoml/issues"
+  },
+  "homepage": "https://github.com/ospatil/markdown-it-nomnoml#readme",
+  "dependencies": {
+    "dagre": "^0.8.5",
+    "nomnoml": "^1.2.0"
+  },
+  "devDependencies": {
+    "markdown-it": "^12.0.0"
+  }
+}
